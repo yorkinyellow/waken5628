@@ -1,0 +1,14 @@
+{
+  "name": "waken5628",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "sggame88 Pantip เว็บไซต์ที่เชื่อถือได้ [Play168] ⭐ sggame88 เว็บคาสิโนออนไลน์ นำเสนอเกมครบวงจร เล่นกับค่ายดัง เชื่อถือได้ รับประกันโดย SA Gaming",
+  "keywords": [
+    "sggame88 Pantip เว็บไซต์ที่เชื่อถือได้ [Play168] ⭐ sggame88 เว็บคาสิโนออนไลน์ นำเสนอเกมครบวงจร เล่นกับค่ายดัง เชื่อถือได้ รับประกันโดย SA Gaming"
+  ],
+  "repository": "https://github.com/yorkinyellow/waken5628",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
